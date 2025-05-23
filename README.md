@@ -1,10 +1,6 @@
-Produções Técnicas Protheus | Elaine Cristina Cordeiro
+TOP 30 - Minhas Documentações Protheus
+📄 Este material reúne as 30 principais documentações que desenvolvi no Protheus durante minha atuação na TOTVS, todas ainda ativas no portal TDN até hoje (18/05/2025). Com foco em clareza, utilidade e qualidade técnica, foram criadas para apoiar clientes e equipes na aplicação das melhores práticas do sistema.
 
-Durante minha trajetória na TOTVS, participei ativamente da análise e desenvolvimento de
-soluções voltadas aos sistemas de Recursos Humanos, especialmente no ERP Protheus. Nesse
-período, colaborei na elaboração de documentações técnicas publicadas no portal TDN, com o
-objetivo de orientar clientes e equipes na aplicação de recursos, resolução de problemas e
-melhores práticas de uso dos sistemas.
+🔗 Acesse aqui o PDF completo:
+https://bit.ly/4343Hvr
 
-Este material reúne as 30 principais documentações que criei no Protheus enquanto atuava na
-TOTVS, com foco em clareza, utilidade e qualidade da informação técnica fornecida aos clientes.
